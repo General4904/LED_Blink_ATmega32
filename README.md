@@ -36,9 +36,10 @@ The firmware toggles **PA0** every 300 milliseconds to blink the LED. The blinki
 
 ## 🖼️ Screenshots
 
-![Schematic](images/schematic.png)  
+![Schematic](images/schematic.svg)  
 ![PCB Layout](images/pcb_layout.png)  
-![3D View](images/3d_view.png)
+![3D View](images/3D_view_bottom.png)
+![3D View (images/3D_view_top.png)]
 
 ---
 
